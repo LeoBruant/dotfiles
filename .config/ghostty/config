@@ -1,0 +1,4 @@
+theme = catppuccin-mocha
+window-padding-balance = true
+window-padding-x = 14
+window-padding-y = 14

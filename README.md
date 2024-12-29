@@ -19,7 +19,7 @@ This theme is meant to be used on arch linux.
 - Shell Framework : [ohmyzsh](zsh-theme-powerlevel10k)
 - Shell Theme : [powerlevel10k](https://aur.archlinux.org/packages/zsh-theme-powerlevel10k)
 - Splash Screen : [Catppuccin Mocha Sapphire](https://github.com/catppuccin/sddm)
-- Terminal : [kitty](https://archlinux.org/packages/extra/x86_64/kitty/)
+- Terminal : [ghostty](https://archlinux.org/packages/extra/x86_64/ghostty/)
 - Window Decorations : [CatppuccinMocha-Modern](https://github.com/catppuccin/kde)
 
 ## Installation
